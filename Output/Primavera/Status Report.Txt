@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PrimaveraVertical.PcbDoc]
+   Generated File[PrimaveraVertical.GTS]
+   Generated File[PrimaveraVertical.GTL]
+   Generated File[PrimaveraVertical.GBL]
+   Generated File[PrimaveraVertical.GBS]
+   Generated File[PrimaveraVertical.GM1]
+   Generated File[PrimaveraVertical.GM]
+   Generated File[PrimaveraVertical.EXTREP]
+   Generated File[PrimaveraVertical.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 22:37:20 On 01.06.2025
